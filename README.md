@@ -1,4 +1,4 @@
-# CNN.png
+# piCNN
 
 Dans ce projet, nous visons à développer et à comparer des modèles d'apprentissage profond sur des données d'images. Pour des raisons de temps, le nombre total d'époques est toujours fixé à 50 et la patience égale à 5. Enfin, le fichier soumis doit être un HTML, vous pouvez utiliser le document joint expliquant comment le générer.
 
